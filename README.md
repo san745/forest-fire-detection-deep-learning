@@ -21,3 +21,4 @@ This project uses The Wildfire Dataset, which contains labeled images of fire an
 Downloaded using kagglehub
 
 Path: /kaggle/input/the-wildfire-dataset
+
