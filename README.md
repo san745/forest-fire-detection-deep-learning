@@ -12,13 +12,12 @@ Achieved ~80% test accuracy
 
 Visualization of predictions with matplotlib
 
-Technologies Used:
-Python
+Technologies Used: Python, TensorFlow / Keras, NumPy, Matplotlib, Jupyter Notebook
 
-TensorFlow / Keras
+Dataset
 
-NumPy
+This project uses The Wildfire Dataset, which contains labeled images of fire and no fire conditions.
 
-Matplotlib
+Downloaded using kagglehub
 
-Jupyter Notebook
+Path: /kaggle/input/the-wildfire-dataset
